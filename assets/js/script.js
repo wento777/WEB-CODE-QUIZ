@@ -55,6 +55,7 @@ startBtn.addEventListener("click", function(){
     showQuestion()
 
 })
+// Countdown Timer
 function countdown(){
     timeLeft --
     timer.textContent = timeLeft;
