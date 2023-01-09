@@ -41,6 +41,12 @@
 
 ![Screenshot (34)](https://user-images.githubusercontent.com/70625665/211238690-2f187941-782e-4ae0-b882-a9540ed70219.png)
 
+![Screenshot (33)](https://user-images.githubusercontent.com/70625665/211238748-2f3e42bd-947d-457d-9da3-0faab601394f.png)
+
+![Screenshot (32)](https://user-images.githubusercontent.com/70625665/211238764-7a4f0d12-a617-4b69-b5e3-c3faed14d328.png)
+![Screenshot (31)](https://user-images.githubusercontent.com/70625665/211238778-87c2a5b5-d98d-412f-95e0-2264ffabe831.png)
+![Screenshot (30)](https://user-images.githubusercontent.com/70625665/211238788-373e6975-7bf0-4e61-84c1-e69871928d24.png)
+![Screenshot (29)](https://user-images.githubusercontent.com/70625665/211238799-cc1029cb-d06d-456e-8de9-adb81c4a0602.png)
 
 # Web APIs Challenge: Code Quiz
 
