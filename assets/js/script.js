@@ -105,7 +105,7 @@ function endQuiz() {
     var spanEl = document.createElement('span');
     spanEl.textContent = 'All done!!  You ran out of time or completed the code quiz. Please enter your initials to save your score.';
     wrapperEl.appendChild(spanEl);
-
+//added a label and input
     var nameInputEl = document.createElement('input');
     nameInputEl.setAttribute('placeholder', 'Enter your initials');
 
@@ -114,7 +114,7 @@ function endQuiz() {
     wrapperEl.append(labelEl, nameInputEl);
     nameInputEl.setAttribute('id', 'nameInput');
     
-
+// added a submit btn 
     var submitBtnEl = document.createElement("button");
     submitBtnEl.className = ("submit-btn");
     submitBtnEl.textContent = "Submit";
