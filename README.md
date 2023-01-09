@@ -39,6 +39,9 @@
 
 # Below are snapshots of various dynamically generated HTML sections throughout the quiz:
 
+![Screenshot (34)](https://user-images.githubusercontent.com/70625665/211238690-2f187941-782e-4ae0-b882-a9540ed70219.png)
+
+
 # Web APIs Challenge: Code Quiz
 
 # User Story
