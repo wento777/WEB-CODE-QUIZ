@@ -1,8 +1,8 @@
 # WEB-CODE-QUIZ
 
-- This project was designed as a homework assignment for KU coding bootcamp in Module 4 Challenge .
+- This project was designed as a homework assignment for KU coding bootcamp in Module 4 Challenge.
 
-- The purpose of this challenge was to build a web code quiz challenge, using our knowledge of HTML, CSS and JavaScript .
+- The purpose of this challenge was to build a web code quiz challenge, using our knowledge of HTML, CSS and JavaScript.
 
 - This is a code quiz challenge application using HTML, CSS, and Javascript. This application emphasizes the use of Javascript to provide quiz questions and collect user data to determine whether the answers to a question are correct.
 
@@ -39,6 +39,17 @@
 
 # Below are snapshots of various dynamically generated HTML sections throughout the quiz:
 
+<<<<<<< HEAD
+=======
+![Screenshot (34)](https://user-images.githubusercontent.com/70625665/211238690-2f187941-782e-4ae0-b882-a9540ed70219.png)
+
+![Screenshot (33)](https://user-images.githubusercontent.com/70625665/211238748-2f3e42bd-947d-457d-9da3-0faab601394f.png)
+
+![Screenshot (32)](https://user-images.githubusercontent.com/70625665/211238764-7a4f0d12-a617-4b69-b5e3-c3faed14d328.png)
+![Screenshot (31)](https://user-images.githubusercontent.com/70625665/211238778-87c2a5b5-d98d-412f-95e0-2264ffabe831.png)
+![Screenshot (30)](https://user-images.githubusercontent.com/70625665/211238788-373e6975-7bf0-4e61-84c1-e69871928d24.png)
+![Screenshot (29)](https://user-images.githubusercontent.com/70625665/211238799-cc1029cb-d06d-456e-8de9-adb81c4a0602.png)
+>>>>>>> 888a5467fe03c5e978f4bd5a48060d46788783ce
 
 # Web APIs Challenge: Code Quiz
 
