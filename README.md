@@ -1,8 +1,8 @@
 # WEB-CODE-QUIZ
 
-- This project was designed as a homework assignment for KU coding bootcamp in Module 4 Challenge .
+- This project was designed as a homework assignment for KU coding bootcamp in Module 4 Challenge.
 
-- The purpose of this challenge was to build a web code quiz challenge, using our knowledge of HTML, CSS and JavaScript .
+- The purpose of this challenge was to build a web code quiz challenge, using our knowledge of HTML, CSS and JavaScript.
 
 - This is a code quiz challenge application using HTML, CSS, and Javascript. This application emphasizes the use of Javascript to provide quiz questions and collect user data to determine whether the answers to a question are correct.
 
