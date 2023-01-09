@@ -11,7 +11,8 @@ var timeLeft = 75;
 var setIntervalIdNumber;
 var curentindex = 0;
 
-// list of all questions, choices, and answers
+// added questions, choices and answers selections //
+//var with array and object for questions 
 var questions = [
     {
         title: 'Commonly used data types DO NOT include:',
@@ -46,6 +47,9 @@ var questions = [
         answer: 'console.log',
     },
 ];
+var score = 0;
+var questionIndex = 0;
+
 
 // Countdown Timer
 function countdown() {
@@ -65,6 +69,7 @@ function showQuestion() {
         choiceBtn.setAttribute('value', questions[curentindex].choices[i])
         choiceBtn.onclick = checkAnswers
         answers.append(choiceBtn);
+        
     }
 
 }
@@ -93,19 +98,37 @@ function checkAnswers() {
 function endQuiz() {
     // whether times is up or the user has answered all the questions, clear the interval
     clearInterval(setIntervalIdNumber);
+
+
     // clear out the contents of wrapper
     wrapperEl.replaceChildren();
     var spanEl = document.createElement('span');
-    spanEl.textContent = 'You ran out of time or completed the code quiz. Please enter a name to save your score.';
+    spanEl.textContent = 'All done!!  You ran out of time or completed the code quiz. Please enter your initials to save your score.';
     wrapperEl.appendChild(spanEl);
+
     var nameInputEl = document.createElement('input');
-    nameInputEl.setAttribute('placeholder', 'Enter your name in this input field');
-    nameInputEl.setAttribute('id', 'nameInput');
+    nameInputEl.setAttribute('placeholder', 'Enter your initials');
+
     var labelEl = document.createElement('label');
     labelEl.setAttribute('for', 'nameInput');
     wrapperEl.append(labelEl, nameInputEl);
+    nameInputEl.setAttribute('id', 'nameInput');
+    
+
+    var submitBtnEl = document.createElement("button");
+    submitBtnEl.className = ("submit-btn");
+    submitBtnEl.textContent = "Submit";
+    wrapperEl.append(submitBtnEl);
+
+    
+   
+  
     console.log('hey, game over pal');
 }
+    
+
+    
+    
 
 
 startBtn.addEventListener("click", function () {
