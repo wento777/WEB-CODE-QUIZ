@@ -39,6 +39,7 @@
 
 # Below are snapshots of various dynamically generated HTML sections throughout the quiz:
 
+
 # Web APIs Challenge: Code Quiz
 
 # User Story
